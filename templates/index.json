@@ -27,7 +27,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<em>handcrafted + small batch + slow craft</em>",
+            "text": "handcrafted + small batch + slow craft",
             "text_style": "body"
           }
         }
@@ -57,7 +57,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "handcrafted + small batch + slow craft",
+            "heading": "<em>handcrafted + small batch + slow craft</em>",
             "heading_size": "h1"
           }
         },
