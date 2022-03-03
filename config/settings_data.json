@@ -91,7 +91,7 @@
           "newsletter_heading": "Subscribe to get special offers and heads up about upcoming releases.",
           "show_social": true,
           "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_language_selector": false,
           "payment_enable": true
         }
       }
