@@ -12,6 +12,7 @@
     "sold_out_badge_color_scheme": "background-1",
     "page_width": "1200",
     "social_facebook_link": "https:\/\/www.facebook.com\/pinedasjewelry",
+    "social_pinterest_link": "https:\/\/www.pinterest.ca\/pinedas_jewelry",
     "social_instagram_link": "http:\/\/instagram.com\/pinedasjewelry",
     "sections": {
       "announcement-bar": {
@@ -87,10 +88,10 @@
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to know when our next limited collection drops and to receive special offers!",
+          "newsletter_heading": "Subscribe to get special offers and heads up about upcoming releases.",
           "show_social": true,
           "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_language_selector": false,
           "payment_enable": true
         }
       }
